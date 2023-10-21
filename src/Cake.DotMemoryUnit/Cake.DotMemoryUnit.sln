@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cake.DotMemoryUnit", "Cake.DotMemoryUnit\Cake.DotMemoryUnit.csproj", "{3689D1A6-3A57-4610-BF2E-5C435DA89B5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cake.DotMemoryUnit.Tests", "Cake.DotMemoryUnit.Tests\Cake.DotMemoryUnit.Tests.csproj", "{62777E28-655D-43EE-AFB3-C76BB85811AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3689D1A6-3A57-4610-BF2E-5C435DA89B5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3689D1A6-3A57-4610-BF2E-5C435DA89B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3689D1A6-3A57-4610-BF2E-5C435DA89B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3689D1A6-3A57-4610-BF2E-5C435DA89B5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62777E28-655D-43EE-AFB3-C76BB85811AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62777E28-655D-43EE-AFB3-C76BB85811AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62777E28-655D-43EE-AFB3-C76BB85811AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62777E28-655D-43EE-AFB3-C76BB85811AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71F5C082-7BF1-4D10-9F10-08DB5A38A174}
+	EndGlobalSection
+EndGlobal
