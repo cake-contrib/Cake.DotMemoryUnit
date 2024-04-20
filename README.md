@@ -26,10 +26,10 @@ If you have questions, search for an existing one, or create a new discussion on
 
 ## Contributing
 
-Cake.ESLint follows the [Contributor Covenant][contrib-covenant] Code of Conduct.
+Cake.DotMemoryUnit follows the [Contributor Covenant][contrib-covenant] Code of Conduct.
 
 We accept Pull Requests.
-Please see [the contributing file][contributing] for how to contribute to Cake.ESLint.
+Please see [the contributing file][contributing] for how to contribute to Cake.DotMemoryUnit.
 
 Small note: If editing the Readme, please conform to the [standard-readme][] specification.
 
