@@ -328,8 +328,8 @@ __pycache__/
 *.pyc
 
 # Cake - Uncomment if you are using it
-# tools/**
-# !tools/packages.config
+tools/**
+!tools/packages.config
 
 # Tabs Studio
 *.tss
@@ -394,5 +394,39 @@ FodyWeavers.xsd
 *.msm
 *.msp
 
+# JetBrains
+.history/
+.idea/
+
 # JetBrains Rider
 *.sln.iml
+
+# OS Specific files
+*~
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# .nfs files are created when an open file is removed but is still being accessed
+.nfs*
+
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# Windows shortcuts
+*.lnk
+
+# Thumbnails
+._*
+
+# Cake.Graph related
+docs/input/tasks/*
+
+# Wyam related
+config.wyam.*
+
+# Cake.Recipe
+BuildArtifacts/
+
