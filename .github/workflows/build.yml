@@ -25,6 +25,7 @@ jobs:
       AZURE_PASSWORD: ${{ secrets.AZURE_PASSWORD }}
       AZURE_SOURCE: ${{ secrets.AZURE_SOURCE }}
       AZURE_USER: ${{ secrets.AZURE_USER }}
+      CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}
       COVERALLS_REPO_TOKEN: ${{ secrets.COVERALLS_REPO_TOKEN }}
       GITHUB_PAT: ${{ secrets.GH_TOKEN }}
       GITTER_ROOM_ID: ${{ secrets.GITTER_ROOM_ID }}
