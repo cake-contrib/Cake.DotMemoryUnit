@@ -42,6 +42,13 @@ Thanks goes to these wonderful people ([emoji key][emoji-key]):
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="http://magnuslindhe.com"><img src="https://avatars.githubusercontent.com/u/1139118?v=4?s=100" width="100px;" alt="Magnus Lindhe"/><br /><sub><b>Magnus Lindhe</b></sub></a><br /><a href="#maintenance-mgnslndh" title="Maintenance">🚧</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
