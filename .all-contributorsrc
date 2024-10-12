@@ -1,4 +1,21 @@
 {
   "projectName": "Cake.DotMemoryUnit",
-  "projectOwner": "cake-contrib"
+  "projectOwner": "cake-contrib",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "mgnslndh",
+      "name": "Magnus Lindhe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1139118?v=4",
+      "profile": "http://magnuslindhe.com",
+      "contributions": [
+        "maintenance"
+      ]
+    }
+  ]
 }
